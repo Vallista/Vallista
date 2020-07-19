@@ -8,6 +8,8 @@ I'm web developer in korea. I want to be a free developer and write and develop 
 - [with this!](https://vallista.tistory.com)
 - [Facebook](https://www.facebook.com/gwangwhi.ma)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVallista%2Fhit-counter)](https://hits.seeyoufarm.com)
+
 <!--
 **Vallista/Vallista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
