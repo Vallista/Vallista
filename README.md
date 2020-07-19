@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm web developer in korea. I want to be a free developer and write and develop something that only I can write. If you are interested in me, please check the contents below
+I'm web developer in korea. I want to be a free developer and write and develop something that only I can write. If you are interested in me, please check the contents below.
 
 - [Come visit my blog](https://vallista.kr)
 - [with this!](https://vallista.tistory.com)
