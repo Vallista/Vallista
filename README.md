@@ -6,6 +6,7 @@ I'm web developer in korea. I want to be a free developer and write and develop 
 
 - [Come visit my blog](https://vallista.kr)
 - [with this!](https://vallista.tistory.com)
+- [Resume](https://vallista.kr/resume)
 - [Facebook](https://www.facebook.com/gwangwhi.ma)
 
 ---
