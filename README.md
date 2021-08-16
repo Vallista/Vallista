@@ -13,6 +13,8 @@ I'm web developer in korea. I want to be a free developer and write and develop 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVallista%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+[![Vallista's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vallista)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Vallista/Vallista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
